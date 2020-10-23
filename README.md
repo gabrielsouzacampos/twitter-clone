@@ -82,8 +82,6 @@ The following software must be installed:
 
 ### :arrow_forward:	**Running the applications**
 
-- :package: API
-
 - :computer: Web app
 
 ```sh
